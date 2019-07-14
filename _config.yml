@@ -1,7 +1,6 @@
 title: expboat
-description: > 
-  expboat
+description:  # ignore
 baseurl: ""
 url: "https://expboat.github.io
-twitter_username: 404
+telegram_username: expboat
 github_username: expboat
