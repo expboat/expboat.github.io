@@ -1,10 +1,13 @@
-title: Stack Problems
+title: 科学冲浪
 description: My Personal Stack Problems
-author: Agus Makmun
+author: expboat
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+about: 如果身边的人问你，在打数据时代，什么还要把摄像头贴上？不妨把这个故事转告给他：
+    两个人在森林遇到老虎。A取下一双更轻便的运动鞋换上。
+    B急骂:「你干嘛呢,换鞋也跑不过老虎啊!」
+    A说:「我只要跑得比你快就好了。」
+disqus_shortname: sci-surf
+google_analytics: UA-?????XXX-Y
 avatar_url: /static/img/avatar.jpg
 
 enableTags: true
