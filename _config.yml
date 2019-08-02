@@ -1,10 +1,13 @@
 title: 科学冲浪
-description: My Personal Stack Problems
+description: sci-surf
 author: expboat
-github: https://github.com/agusmakmun
-about: 如果身边的人问你，在大数据时代，为什么还要把摄像头贴上？不妨把这个故事转告给他：
+github: https://github.com/expboat
+about: 如果身边的人问你，在大数据时代，为什么在摄像头贴上胶带？不妨把这个故事转告给他：
+
     两个人在森林遇到老虎。A取下一双更轻便的运动鞋换上。
+
     B急骂:「你干嘛呢,换鞋也跑不过老虎啊!」
+
     A说:「我只要跑得比你快就好了。」
 disqus_shortname: sci-surf
 google_analytics: UA-?????XXX-Y
