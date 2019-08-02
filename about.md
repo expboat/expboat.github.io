@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[github](https://github.com/expboat) and [telegram](https://t.me/expboat).
+[github](https://github.com/expboat)  and  [telegram](https://t.me/expboat).
 
 
 * PGP fingerprint: `43CA 31CD F88B 5892 4331 9F4F 2556 6655 9C95 C2B3` and [public key](https://expboat.github.io/public-key-9C95.txt)
