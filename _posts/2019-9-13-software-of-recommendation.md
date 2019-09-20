@@ -1,3 +1,11 @@
+---
+layout: post
+entitle: "software-of-recommendation-on-linux"
+title: "Linux 平台软件推荐"
+categories: [Linux,安全]
+permalink: '/software-of-recommendation-on-linux'
+---
+
 ### linux
 
 cherrytree
