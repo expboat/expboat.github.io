@@ -1,6 +1,11 @@
-
-
-
+---
+layout: post
+entitle: "why-privacy-significant"
+title: "我没什么可隐藏的"
+categories: [网络安全]
+date: 2019-08-02 06:20:00
+permalink: '/why-privacy-significant'
+---
 
 Google CEO 埃里克·施密特曾[表示](www.pcworld.com/article/184446/googles_schmidt_roasted_for_privacy_comments.html)，「假如你有不想让任何人知道的事情，也许你一开始就不应该做它」。
 2005年，CNET 记者[披露](http://money.cnn.com/2005/08/05/technology/google_cnet/)施密特的个人信息--通过谷歌搜索获得的薪水、邻居、一些爱好和政治捐款。全体CNET记者便被列入公司黑名单，2006年7月之前，员工被禁止接受采访。
@@ -9,7 +14,7 @@ Google CEO 埃里克·施密特曾[表示](www.pcworld.com/article/184446/google
 
 华盛顿大学的亚当·摩尔教授反对把隐私看作是一种交易品，可以牺牲以来换取安全的看法。认为「企业家都告诉我们窥探他人并不是坏事，他们他们自己应该首当其冲，以绝对的公开透明让人们监督自己。」
 
-关注公民自由问题的律师[哈维·锡尔弗格特](https://zh.wikipedia.org/wiki/%E6%97%A0%E6%89%80%E9%9A%90%E7%9E%92%E8%AE%BA)在书中称，一个普通的美国人，平均每天都会犯下三项重罪而不自知。
+关注公民自由问题的律师[哈维·锡尔弗格特](https://zh.wikipedia.org/wiki/%E6%97%A0%E6%89%80%E9%9A%90%E7%9E%92%E8%AE%BA)称，一个普通的美国人，平均每天都会犯下三项重罪而不自知。
 
 法兰西主教黎塞留说过“把世界上最诚实的人写的六行字拿给我，我能从中找到判他绞刑的理由”。
 
@@ -17,6 +22,4 @@ Google CEO 埃里克·施密特曾[表示](www.pcworld.com/article/184446/google
 雅各布·阿佩尔鲍姆回应，让所有提出这种观点的人立刻脱下裤子，并把手机解锁交给他。
 朱利安·阿桑奇看法则是「如果你这人这么无趣，那我们与其他人都不该和你交谈」。
 
-
 李彦宏说中国人对隐私没那么敏感，后来有心人得知李彦宏参加百度ai开发者大会...
-

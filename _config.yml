@@ -1,63 +1,64 @@
-title: 科学冲浪
-description: sci-surf
-author: expboat
-github: https://github.com/expboat
-about: 如果身边的人问你，在大数据时代，为什么在摄像头贴上胶带？不妨把这个故事转告给他：
+title:              科学冲浪
+description:        Sci-surf
+author:             Sci-surf
+github:             https://github.com/expboat
+about:              如果有人问你:<br>
+    在大数据时代,<br>
+    为什么在摄像头上贴胶带？<br>
+    不妨把这个故事转告给他：<br><br>
+    两个人在森林遇到老虎。<br>
+    A取下更轻便的运动鞋换上。<br>
+    B急骂:「你干嘛呢, 换鞋也跑不过老虎啊!」<br>
+    A说:「我只要跑得比你快就好了。」<br>
+disqus_shortname:   sci-surf
+google_analytics:   UA-?????XXX-Y
+avatar_url:         /static/img/avatar.jpg
 
-    两个人在森林遇到老虎。A取下一双更轻便的运动鞋换上。
-
-    B急骂:「你干嘛呢,换鞋也跑不过老虎啊!」
-
-    A说:「我只要跑得比你快就好了。」
-disqus_shortname: sci-surf
-google_analytics: UA-?????XXX-Y
-avatar_url: /static/img/avatar.jpg
-
-enableTags: true
-tagarray: []
+enableTags:         true
+tagarray:           []
 
 collections:
   project:
-    output: true
-    permalink: /project/:path/
+    output:         true
+    permalink:      /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/expboat"
+    - icon:         fa-facebook
+      link:         "#"
+    - icon:         fa-twitter
+      link:         "#"
+    - icon:         fa-linkedin
+      link:         "#"
+    - icon:         fa-stack-exchange
+      link:         "#"
+    - icon:         fa-github
+      link:         "https://github.com/expboat"
 
 share:
-  twitter_username: github.io
-  fb_appid: ????788565247320
+  twitter_username: #
+  fb_appid:         ????788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text:         About Me
+      url:          /about/
+    - text:         My Projects
+      url:          /projects/
+    - text:         XML Feed
+      url:          /feed.xml
 
-url: "https://expboat.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
-markdown: kramdown
+url:                "https://expboat.github.io"
+baseurl:            ""
+paginate:           20
+per_page:           20
+paginate_path:      "/page/:num/"
+markdown:           kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
 
 compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+  clippings:        all
+  comments:         ["<!-- ", " -->"]
+  endings:          all
   ignore:
-    envs: ['development']
+    envs:           ['development']
